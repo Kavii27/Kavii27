@@ -1,6 +1,10 @@
+<img align="center" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 <h1 align="center">Hey there!👋 I'm Kaveesha</h1>
 <h3 align="center">🎓 IT Undergraduate | Backend Development Enthusiast</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kavii27&label=Profile%20views&color=0e75b6&style=flat" alt="kavii27" /> </p>
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=kavii27&color=brightgreen" alt="watching_count" />
+ </p>
+
 
 - 🌱 I’m currently learning **MERN**
 
