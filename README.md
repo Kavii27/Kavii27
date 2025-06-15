@@ -1,4 +1,4 @@
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 <img width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"  align="center"/>
 <h1 align="center">Hey there!👋 I'm Kaveesha</h1>
 <h3 align="center">🎓 IT Undergraduate | Backend Development Enthusiast</h3>
@@ -37,12 +37,23 @@
 ---
 <h3 align="center">Github Stats</h3> <br/><br/>
 
-![Kavii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavii27&show_icons=true&theme=transparent)
-&nbsp; &nbsp; &nbsp; 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavii27&theme=transparent&layout=compact" width="410" />
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kavii27&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="kavii" />
-</p>
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  src="https://github-readme-stats.vercel.app/api?username=Kavii27&show_icons=true&theme=transparent" />
+  <br></br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kavii27&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="kavii" /> 
+</td>
+<td width="50%" align="center">
+
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavii27&theme=transparent&layout=compact" width="410" />
+  
+  </td>
+</tr>
+</table>
+
   
   <br>
   <br>
