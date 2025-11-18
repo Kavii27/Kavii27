@@ -39,7 +39,17 @@
 <p align="center">
 <table align="center">
 <tr border="none">
+    <td width="50%" align="center">
+  
+  <img  src="https://github-readme-stats.vercel.app/api?username=Kavii27&show_icons=true&theme=transparent" />
+  <br></br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kavii27&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="kavii" /> 
+</td>
+<td width="50%" align="center">
 
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavii27&theme=transparent&layout=compact" width="410" />
+  
+  </td>
 </tr>
 </table>
 
