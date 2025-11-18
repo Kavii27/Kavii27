@@ -47,7 +47,8 @@
 </td>
 <td width="50%" align="center">
 
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavii27&theme=transparent&layout=compact" width="410" />
+  <img src="https://streak-stats.demolab.com/?user=kavii27&theme=dark&background=0d1117" />
+
   
   </td>
 </tr>
